@@ -1,4 +1,5 @@
 title: Jennifer Kleimaier
 description: Product Owner / Tech
-show_downloads: true
+show_downloads: false
+analytics: 
 theme: jekyll-theme-slate

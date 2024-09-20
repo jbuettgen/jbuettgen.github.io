@@ -9,8 +9,17 @@ Find me on [LinkedIn](https://www.linkedin.com/in/jennifer-kleimaier/ "LinkedIn"
 
 ## Work Experience
 
+# Executice Product Owner Sixt Rent-a-car @ SIXT
+Oct 2021 - now
+Product Owner of SIXT's cash cow: the digital Rent-a-Car booking funnel. Leading a team of Engineers working on both technical and user-centric optimization.
+
 
 ## Education
+
+# Diploma in Computer Science & Media
+Ludwig-Maximilians University, Munich
+2004 - 2010
+Computer science with a focus on new technologies and human-centered paradigms.
 
 
 ## Certifications

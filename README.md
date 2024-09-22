@@ -9,11 +9,32 @@ Find me on [LinkedIn](https://www.linkedin.com/in/jennifer-kleimaier/ "LinkedIn"
 
 ## Work Experience
 
-### Executice Product Owner Sixt Rent-a-car @ SIXT
-Oct 2021 - now
+### Executice Product Owner SIXT Rent-a-Car
+SIXT SE  
+2021-10 - now  
 > Product Owner of SIXT's cash cow: the digital Rent-a-Car booking funnel. Leading a team of Engineers working on both technical and user-centric optimization.
 
+### Executive Product Owner SIXT+ (former SIXT flat)
+SIXT SE  
+2019-09 - 2021-09
+> Optimization, iteration and eventually complete re-launch of car subscription products for SIXT.
 
+### Senior Product Manager SIXT flat
+SIXT SE  
+2018-02 - 2019-08
+> Testing and bringing to market of new car subscription services as a start-up-like, lean project within the company
+
+### Senior Product Manager International Websites
+SIXT SE  
+2017-03 - 2018-01
+> Product management for international and franchise rent-a-car websites. Re-launch of SIXT sub-brand websites.
+
+### Senior Manager Product Owner Recruiting Portal
+SIXT SE
+2016-04 - 2017-02
+> Re-launch of the company's career website (www.sixt.jobs) including new backend system based on SalesForce, plus introducing and training new hiring processes.  
+
+  
 ## Education
 
 ### Diploma in Computer Science & Media
@@ -22,6 +43,6 @@ Ludwig-Maximilians University, Munich
 2004 - 2010
 >Computer science with a focus on new technologies and human-centered paradigms.
 
-
-## Certifications
+  
+## Certificates
 

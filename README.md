@@ -4,20 +4,19 @@
 Techie since my first lines of code in the early 2000s. Agile enthusiast since my first role as product owner in 2013. Now hands-on enabler and leader for agile tech projects with a quality-focused and team-oriented mindset.
  
 Find me on [LinkedIn](https://www.linkedin.com/in/jennifer-kleimaier/ "LinkedIn")
-
-
+  
+  
 
 ## Work Experience
 
 #### Executice Product Owner SIXT Rent-a-Car
-**Executice Product Owner SIXT Rent-a-Car**
 SIXT SE   
-2021/10 - now  
+2021-10 - now  
 > Product Owner of SIXT's cash cow: the digital Rent-a-Car booking funnel (www.sixt.com). Leading a team of Engineers working on both technical and user-centric optimization.
 
 ### Executive Product Owner SIXT+ (former SIXT flat)
 SIXT SE  
-2019/09 - 2021/09
+2019-09 - 2021-09
 > Optimization, iteration and eventually complete re-launch of car subscription products for SIXT (www.sixt.plus).
 
 ### Senior Product Manager SIXT flat
@@ -60,7 +59,7 @@ Ahlers EDV Systeme
 2004 - 2006
 > Support für den Web-Shop und Sales Prospekte
 
-
+  
   
 ## Education
 
@@ -70,5 +69,32 @@ Ludwig-Maximilians University, Munich
 >Computer science with a focus on new technologies and human-centered paradigms.
 
   
+  
 ## Certificates
+### Elements of Al 
+(Fundamentals, Machine Learning, Neural Networks - 2 ECTS)  
+University of Helsinki  
+Ausgestellt: Aug. 2024  
+Nachweis anzeigen 
+
+  
+### Contentsquare Certified
+(Customer Experience Analytics)  
+Contentsquare  
+Ausgestellt: Sept. 2022  
+Nachweis anzeigen 
+
+  
+### Scrum.org Professional Scrum Master I
+Scrum.org  
+Ausgestellt: Juli 2015  
+Nachweis anzeigen  
+
+
+### Scrum.org Professional Scrum Product Owner I
+Scrum.org  
+Ausgestellt: Juni 2015  
+Nachweis anzeigen  
+
+
 

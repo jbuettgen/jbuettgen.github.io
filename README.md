@@ -9,7 +9,7 @@ Find me on [LinkedIn](https://www.linkedin.com/in/jennifer-kleimaier/ "LinkedIn"
 
 ## Work Experience
 
-#### Executice Product Owner SIXT Rent-a-Car
+### Executice Product Owner SIXT Rent-a-Car
 SIXT SE   
 2021-10 - now  
 > Product Owner of SIXT's cash cow: the digital Rent-a-Car booking funnel (www.sixt.com). Leading a team of Engineers working on both technical and user-centric optimization.
@@ -76,6 +76,7 @@ Ludwig-Maximilians University, Munich
 Amazon Web Services (AWS)  
 Ausgestellt: Sept. 2024  
 [Verify](https://www.credly.com/badges/ee734d97-91f3-4a10-a44e-991d096b277a)  
+<a href="http://example.com/" target="_blank">example</a>. 
 
 ### Generative Al Overview for Project Managers
 Project Management Institute  
@@ -94,12 +95,12 @@ Contentsquare
 Ausgestellt: Sept. 2022  
 Nachweis anzeigen 
   
-### Scrum.org Professional Scrum Master I
+### Professional Scrum Master I
 Scrum.org  
 Ausgestellt: Juli 2015  
 Nachweis anzeigen  
 
-### Scrum.org Professional Scrum Product Owner I
+### Professional Scrum Product Owner I
 Scrum.org  
 Ausgestellt: Juni 2015  
 Nachweis anzeigen  

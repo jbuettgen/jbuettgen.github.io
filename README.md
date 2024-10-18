@@ -42,19 +42,22 @@ kindlstories
 ### IT Consultant | BMW ConnectedDrive Customer Portal
 MVI SOLVE-IT GmbH
 2013-07 - 2016-03
-> Consulting für die BMW AG im Bereich ConnectedDrive Kundenportale. Schwerpunkt Webentwicklungsprojekte in agilem Vorgehen, Projektinitiierung, Projektmanagement, Anforderungsmanagement, Testmanagement, Rollout, sowie Konzeption und Spezifikation (http://www.bmw-connecteddrive.de/)
+> Consulting für die BMW AG im Bereich ConnectedDrive Kundenportale. Schwerpunkt Webentwicklungsprojekte in agilem Vorgehen, Projektinitiierung, Projektmanagement, Anforderungsmanagement, Testmanagement, Rollout, sowie Konzeption und Spezifikation (www.bmw-connecteddrive.de)
 
 ### User Experience Consultant
 Ray Sono AG
 2010-11 - 2013-06
 > UX Konzeption, Projektleitung und Beratung verschiedener Kunden bei Projekten im Online-und Mobilbereich. Requirements Definition und Durchführung von User Acceptance Tests für Change Requests im Rahmen von CMS-Weiterentwicklungen.
 
-### User Experience Consultant
-Ray Sono AG
-2010-11 - 2013-06
-> 
+### Working Student
+United Internet Media GmbH
+2008-05 - 2010-09
+> Teammitglied der Online Redaktion für GMX, Web.de und 1&1
 
-
+### Working Student
+Ahlers EDV Systeme
+2004 - 2006
+> Support für den Web-Shop und Sales Prospekte
 
 
   

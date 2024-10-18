@@ -75,35 +75,34 @@ Ludwig-Maximilians University, Munich
 ### AWS Knowledge: Cloud Essentials
 Amazon Web Services (AWS)  
 Ausgestellt: Sept. 2024  
-[Verify](https://www.credly.com/badges/ee734d97-91f3-4a10-a44e-991d096b277a)  
-<a href="http://example.com/" target="_blank">example</a>. 
+<a href="https://www.credly.com/badges/ee734d97-91f3-4a10-a44e-991d096b277a" target="_blank">Verify</a>  
 
 ### Generative Al Overview for Project Managers
 Project Management Institute  
 Ausgestellt: Sept. 2024  
-Nachweis anzeigen  
+<a href="https://www.credly.com/badges/c408020c-a1c8-4287-8068-d92c326c5508/public_url" target="_blank">Verify</a>  
 
 ### Elements of Al 
 (Fundamentals, Machine Learning, Neural Networks - 2 ECTS)  
 University of Helsinki  
 Ausgestellt: Aug. 2024  
-Nachweis anzeigen 
+<a href="https://certificates.mooc.fi/validate/yaak9vn52df" target="_blank">Verify</a>  
   
 ### Contentsquare Certified
 (Customer Experience Analytics)  
 Contentsquare  
 Ausgestellt: Sept. 2022  
-Nachweis anzeigen 
+<a href="https://verify.skilljar.com/c/shcz5zz5vutg" target="_blank">Verify</a>  
   
 ### Professional Scrum Master I
 Scrum.org  
 Ausgestellt: Juli 2015  
-Nachweis anzeigen  
+<a href="https://www.credly.com/badges/c96e72c3-6983-40df-9599-bbcb467286f5" target="_blank">Verify</a>  
 
 ### Professional Scrum Product Owner I
 Scrum.org  
 Ausgestellt: Juni 2015  
-Nachweis anzeigen  
-
-
-
+<a href="https://www.credly.com/badges/2ee9fd6b-93d8-442f-8cf1-ccf1188e8212" target="_blank">Verify</a>  
+  
+  
+  

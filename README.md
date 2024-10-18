@@ -10,13 +10,14 @@ Find me on [LinkedIn](https://www.linkedin.com/in/jennifer-kleimaier/ "LinkedIn"
 ## Work Experience
 
 #### Executice Product Owner SIXT Rent-a-Car
-SIXT SE. 
-2021-10 - now  
+**Executice Product Owner SIXT Rent-a-Car**
+SIXT SE   
+2021/10 - now  
 > Product Owner of SIXT's cash cow: the digital Rent-a-Car booking funnel (www.sixt.com). Leading a team of Engineers working on both technical and user-centric optimization.
 
 ### Executive Product Owner SIXT+ (former SIXT flat)
 SIXT SE  
-2019-09 - 2021-09
+2019/09 - 2021/09
 > Optimization, iteration and eventually complete re-launch of car subscription products for SIXT (www.sixt.plus).
 
 ### Senior Product Manager SIXT flat

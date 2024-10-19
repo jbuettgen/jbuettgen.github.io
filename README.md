@@ -23,47 +23,47 @@ kindlstories
 
 ### Executive Product Owner SIXT+ (former SIXT flat)
 SIXT SE  
-2019-09 - 2021-09
+2019-09 to 2021-09
 > Re-iteration, optimization and eventually complete polish and re-launch of previously introduced car subscription products for SIXT ("SIXT flat nonstop") under a new brand (SIXT+).  
 > www.sixt.plus
 
 ### Senior Product Manager SIXT flat
 SIXT SE  
-2018-02 - 2019-08
+2018-02 to 2019-08
 > Testing, iterating and bringing to market new car subscription services as an inhouse-start-up-like, lean innovation project on board level.  
 > https://web.archive.org/web/20190411194457/https://www.sixtflat.com/ 
 
 ### Senior Product Manager International Websites
 SIXT SE  
-2017-03 - 2018-01
+2017-03 to 2018-01
 > Product management for international and franchise rent-a-car websites. Re-launch of SIXT sub-brand websites.  
 > www.sixt.global
 
 ### Senior Manager Product Owner Recruiting Portal
 SIXT SE  
-2016-04 - 2017-02
+2016-04 to 2017-02
 > Re-launch of the company's career website, including a new backend system (from Rexx to a SalesForce-based inhouse application). Plus, with it the introduction of optimized hiring processes (and their internal training).  
 > www.sixt.jobs
 
 ### IT Consultant | BMW ConnectedDrive Customer Portal
 MVI SOLVE-IT GmbH  
-2013-07 - 2016-03
+2013-07 to 2016-03
 > Consulting für die BMW AG im Bereich ConnectedDrive Kundenportale. Schwerpunkt Webentwicklungsprojekte in agilem Vorgehen, Projektinitiierung, Projektmanagement, Anforderungsmanagement, Testmanagement, Rollout, sowie Konzeption und Spezifikation.  
 > www.bmw-connecteddrive.de
 
 ### User Experience Consultant
 Ray Sono AG  
-2010-11 - 2013-06
+2010-11 to 2013-06
 > UX Konzeption, Projektleitung und Beratung verschiedener Kunden bei Projekten im Online-und Mobilbereich, aus den Branchen Industrie, Anlagenbau, Pharma und Automotive. Requirements Definition und Durchführung von User Acceptance Tests für Change Requests im Rahmen von CMS-Weiterentwicklungen.
 
 ### Working Student
 United Internet Media GmbH  
-2008-05 - 2010-09
+2008-05 to 2010-09
 > Teammitglied der Online Redaktion für GMX, Web.de und 1&1
 
 ### Working Student
 Ahlers EDV Systeme  
-2004 - 2006
+2004 to 2006
 > Support für den Web-Shop und Sales Prospekte
 
   
@@ -72,7 +72,7 @@ Ahlers EDV Systeme
 
 ### Diploma in Computer Science & Media
 Ludwig-Maximilians University, Munich  
-2004 - 2010
+2004 to 2010
 >Computer science with a focus on new technologies and human-centered paradigms.
 
   
@@ -81,11 +81,11 @@ Ludwig-Maximilians University, Munich
 
 <img src="x" width="100" height="100">
 
-<img src="https://images.credly.com/size/680x680/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png" width="100" height="100">
 
 ### AWS Knowledge: Cloud Essentials
 Amazon Web Services (AWS)  
 Ausgestellt: Sept. 2024  
+<img src="https://images.credly.com/size/680x680/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png" width="100" height="100">
 <a href="https://www.credly.com/badges/ee734d97-91f3-4a10-a44e-991d096b277a" target="_blank">Verify</a>  
 
 ### Generative Al Overview for Project Managers

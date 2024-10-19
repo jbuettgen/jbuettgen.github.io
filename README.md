@@ -82,6 +82,7 @@ Ludwig-Maximilians University, Munich
 <img src="x" width="100" height="100">
 
 <img src="https://images.credly.com/size/680x680/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png" width="100" height="100">
+
 ### AWS Knowledge: Cloud Essentials
 Amazon Web Services (AWS)  
 Ausgestellt: Sept. 2024  

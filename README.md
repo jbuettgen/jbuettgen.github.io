@@ -30,12 +30,13 @@ SIXT SE
 ### Senior Product Manager International Websites
 SIXT SE  
 2017-03 - 2018-01
-> Product management for international and franchise rent-a-car websites. Re-launch of SIXT sub-brand websites.
+> Product management for international and franchise rent-a-car websites. Re-launch of SIXT sub-brand websites.  
+> www.sixt.global
 
 ### Senior Manager Product Owner Recruiting Portal
 SIXT SE  
 2016-04 - 2017-02
-> Re-launch of the company's career website (www.sixt.jobs) including a new backend system (from Rexx to a SalesForce-based inhouse application). Plus, with it the introduction of optimized hiring processes (and their internal training).  
+> Re-launch of the company's career website, including a new backend system (from Rexx to a SalesForce-based inhouse application). Plus, with it the introduction of optimized hiring processes (and their internal training).  
 > www.sixt.jobs
 
 ### Founder / self-employed illustrator

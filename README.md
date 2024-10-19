@@ -12,19 +12,20 @@ Find me on [LinkedIn](https://www.linkedin.com/in/jennifer-kleimaier/ "LinkedIn"
 ### Executice Product Owner SIXT Rent-a-Car
 SIXT SE   
 2021-10 - now  
-> Product Owner of SIXT's cash cow: the digital Rent-a-Car booking funnel (www.sixt.com). Leading a team of Engineers working on both technical and user-centric optimization.
+> Product Owner & Product Manager of SIXT's cash cow: the digital Rent-a-Car booking funnel, Web & App. Leading a team of Engineers working on both technical and user-centric optimization.  
 > www.sixt.com
 
 ### Executive Product Owner SIXT+ (former SIXT flat)
 SIXT SE  
 2019-09 - 2021-09
-> Optimization, iteration and eventually complete re-launch of car subscription products for SIXT (www.sixt.plus).
+> Optimization, iteration and eventually complete re-launch of car subscription products for SIXT.  
+> www.sixt.plus
 
 ### Senior Product Manager SIXT flat
 SIXT SE  
 2018-02 - 2019-08
-> Testing, iterating and bringing to market new car subscription services as a inhouse-start-up-like, lean innovation project on board level.
-> ( https://web.archive.org/web/20190411194457/https://www.sixtflat.com/ )
+> Testing, iterating and bringing to market new car subscription services as a inhouse-start-up-like, lean innovation project on board level.  
+> https://web.archive.org/web/20190411194457/https://www.sixtflat.com/ 
 
 ### Senior Product Manager International Websites
 SIXT SE  
@@ -34,22 +35,25 @@ SIXT SE
 ### Senior Manager Product Owner Recruiting Portal
 SIXT SE  
 2016-04 - 2017-02
-> Re-launch of the company's career website (www.sixt.jobs) including a new backend system (from Rexx to a SalesForce-based inhouse application). Plus, with it the introduction of optimized hiring processes (and their internal training).
+> Re-launch of the company's career website (www.sixt.jobs) including a new backend system (from Rexx to a SalesForce-based inhouse application). Plus, with it the introduction of optimized hiring processes (and their internal training).  
+> www.sixt.jobs
 
 ### Founder / self-employed illustrator
 kindlstories  
 2020-05 - today
-> Self-employed founder, illustrator and manager of an own brand with an online eCommerce shop for hand-drawn designs, sold as postcards, clothing and accessories or used in cooperations. (www.kindlstories.de)
+> Self-employed founder, illustrator and manager of an own brand with an online eCommerce shop for hand-drawn designs, sold as postcards, clothing and accessories or used in cooperations.  
+> www.kindlstories.de
 
 ### IT Consultant | BMW ConnectedDrive Customer Portal
 MVI SOLVE-IT GmbH  
 2013-07 - 2016-03
-> Consulting für die BMW AG im Bereich ConnectedDrive Kundenportale. Schwerpunkt Webentwicklungsprojekte in agilem Vorgehen, Projektinitiierung, Projektmanagement, Anforderungsmanagement, Testmanagement, Rollout, sowie Konzeption und Spezifikation (www.bmw-connecteddrive.de)
+> Consulting für die BMW AG im Bereich ConnectedDrive Kundenportale. Schwerpunkt Webentwicklungsprojekte in agilem Vorgehen, Projektinitiierung, Projektmanagement, Anforderungsmanagement, Testmanagement, Rollout, sowie Konzeption und Spezifikation.  
+> www.bmw-connecteddrive.de
 
 ### User Experience Consultant
 Ray Sono AG  
 2010-11 - 2013-06
-> UX Konzeption, Projektleitung und Beratung verschiedener Kunden bei Projekten im Online-und Mobilbereich. Requirements Definition und Durchführung von User Acceptance Tests für Change Requests im Rahmen von CMS-Weiterentwicklungen.
+> UX Konzeption, Projektleitung und Beratung verschiedener Kunden bei Projekten im Online-und Mobilbereich, aus den Branchen Industrie, Anlagenbau, Pharma und Automotive. Requirements Definition und Durchführung von User Acceptance Tests für Change Requests im Rahmen von CMS-Weiterentwicklungen.
 
 ### Working Student
 United Internet Media GmbH  

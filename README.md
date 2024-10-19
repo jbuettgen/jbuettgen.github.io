@@ -29,7 +29,7 @@ SIXT SE
 ### Senior Product Manager SIXT flat
 SIXT SE  
 2018-02 to 2019-08
-> Testing, iterating and bringing to market new car subscription services as an inhouse-start-up-like, lean innovation project on board level.  
+> Board-level assignment: Testing, iterating and bringing to market new car subscription services as an inhouse-start-up-like, lean innovation project. Four different, innovative product ideas (as websites) were launched within 3 months, to find out which one to pursue.  
 > <a href="https://web.archive.org/web/20190411194457/https://www.sixtflat.com/" target="_blank">See on Wayback Machine</a>
 
 ### Senior Product Manager International Websites

@@ -30,7 +30,7 @@ SIXT SE
 ### Senior Product Manager SIXT flat
 SIXT SE  
 2018-02 - 2019-08
-> Testing, iterating and bringing to market new car subscription services as a inhouse-start-up-like, lean innovation project on board level.  
+> Testing, iterating and bringing to market new car subscription services as an inhouse-start-up-like, lean innovation project on board level.  
 > https://web.archive.org/web/20190411194457/https://www.sixtflat.com/ 
 
 ### Senior Product Manager International Websites
@@ -79,6 +79,9 @@ Ludwig-Maximilians University, Munich
   
 ## Certificates
 
+<img src="x" width="100" height="100">
+
+<img src="https://images.credly.com/size/680x680/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png" width="100" height="100">
 ### AWS Knowledge: Cloud Essentials
 Amazon Web Services (AWS)  
 Ausgestellt: Sept. 2024  

@@ -14,7 +14,7 @@ Find me on [LinkedIn](https://www.linkedin.com/in/jennifer-kleimaier/ "LinkedIn"
 SIXT SE   
 2021-10 - **today**  
 > Product Owner & Product Manager of SIXT's cash cow: the digital Rent-a-Car booking funnel, Web & App. Leading a team of Engineers working on both technical and user-centric optimization.  
-> [www.sixt.com](www.sixt.com)
+> [www.sixt.com](https://www.sixt.com)
 
 ### Founder / self-employed illustrator
 kindlstories  

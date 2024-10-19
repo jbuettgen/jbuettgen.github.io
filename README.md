@@ -89,33 +89,33 @@ Ausgestellt: Juni 2015
 ### Professional Scrum Master I
 Scrum.org  
 Ausgestellt: Juli 2015  
-<img src="https://images.credly.com/size/680x680/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png" width="100" height="100">
+<img src="https://images.credly.com/size/680x680/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png" width="60" height="60">
 <a href="https://www.credly.com/badges/c96e72c3-6983-40df-9599-bbcb467286f5" target="_blank">Verify</a>  
 
 ### AWS Knowledge: Cloud Essentials
 Amazon Web Services (AWS)  
 Ausgestellt: Sept. 2024  
-<img src="https://images.credly.com/size/680x680/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png" width="100" height="100">
+<img src="https://images.credly.com/size/680x680/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png" width="60" height="60">
 <a href="https://www.credly.com/badges/ee734d97-91f3-4a10-a44e-991d096b277a" target="_blank">Verify</a>  
 
 ### Elements of Al 
 (Fundamentals, Machine Learning, Neural Networks - 2 ECTS)  
 University of Helsinki  
 Ausgestellt: Aug. 2024  
-<img src="x" width="100" height="100">
+<img src="/assets/cert_elementsofai.png" width="60" height="">
 <a href="https://certificates.mooc.fi/validate/yaak9vn52df" target="_blank">Verify</a>  
   
 ### Generative Al Overview for Project Managers
 Project Management Institute  
 Ausgestellt: Sept. 2024  
-<img src="https://images.credly.com/size/680x680/images/05de6fa7-8633-437c-80b5-7ee73779a87f/image.png" width="100" height="100">
+<img src="https://images.credly.com/size/680x680/images/05de6fa7-8633-437c-80b5-7ee73779a87f/image.png" width="60" height="60">
 <a href="https://www.credly.com/badges/c408020c-a1c8-4287-8068-d92c326c5508/public_url" target="_blank">Verify</a>  
 
 ### Contentsquare Certified
 (Customer Experience Analytics)  
 Contentsquare  
 Ausgestellt: Sept. 2022  
-<img src="x" width="100" height="100">
+<img src="/assets/cert_contentsquare" width="60" height="">
 <a href="https://verify.skilljar.com/c/shcz5zz5vutg" target="_blank">Verify</a>  
   
 

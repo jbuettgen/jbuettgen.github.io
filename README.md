@@ -1,5 +1,3 @@
-
-
 ## Hi, I'm Jennifer
 <img src="https://avatars.githubusercontent.com/u/20593806" width="100" height="100" padding-left="10px" align="right" float="left">
 Techie since my first lines of code in the early 2000s. Agile enthusiast since my first role as product owner in 2013. Now hands-on enabler and leader for agile tech projects with a quality-focused and team-oriented mindset.
@@ -14,43 +12,43 @@ Find me on [LinkedIn](https://www.linkedin.com/in/jennifer-kleimaier/ "LinkedIn"
 SIXT SE   
 2021-10 - **today**  
 > Product Owner & Product Manager of SIXT's cash cow: the digital Rent-a-Car booking funnel, Web & App. Leading a team of Engineers working on both technical and user-centric optimization.  
-> [www.sixt.com](https://www.sixt.com)
+> <a href="www.sixt.com" target="_blank">www.sixt.com</a>
 
 ### Founder / self-employed illustrator
 kindlstories  
 2020-05 - **today**
 > Self-employed founder, illustrator and manager of an own brand with an online eCommerce shop for hand-drawn designs, sold as postcards, clothing and accessories or used in cooperations.  
-> [www.kindlstories.de](www.kindlstories.de)
+> <a href="www.kindlstories.de" target="_blank">www.kindlstories.de</a>
 
 ### Executive Product Owner SIXT+ (former SIXT flat)
 SIXT SE  
 2019-09 to 2021-09
 > Re-iteration, optimization and eventually complete polish and re-launch of previously introduced car subscription products for SIXT ("SIXT flat nonstop") under a new brand (SIXT+).  
-> www.sixt.plus
+> <a href="www.sixt.plus" target="_blank">www.sixt.plus</a>
 
 ### Senior Product Manager SIXT flat
 SIXT SE  
 2018-02 to 2019-08
 > Testing, iterating and bringing to market new car subscription services as an inhouse-start-up-like, lean innovation project on board level.  
-> https://web.archive.org/web/20190411194457/https://www.sixtflat.com/ 
+> <a href="https://web.archive.org/web/20190411194457/https://www.sixtflat.com/" target="_blank">See on Wayback Machine</a>
 
 ### Senior Product Manager International Websites
 SIXT SE  
 2017-03 to 2018-01
 > Product management for international and franchise rent-a-car websites. Re-launch of SIXT sub-brand websites.  
-> www.sixt.global
+> <a href="www.sixt.global" target="_blank">www.sixt.global</a> & all Franchise domains
 
 ### Senior Manager Product Owner Recruiting Portal
 SIXT SE  
 2016-04 to 2017-02
 > Re-launch of the company's career website, including a new backend system (from Rexx to a SalesForce-based inhouse application). Plus, with it the introduction of optimized hiring processes (and their internal training).  
-> www.sixt.jobs
+> <a href="www.sixt.jobs" target="_blank">www.sixt.jobs</a>  
 
 ### IT Consultant | BMW ConnectedDrive Customer Portal
 MVI SOLVE-IT GmbH  
 2013-07 to 2016-03
 > Consulting für die BMW AG im Bereich ConnectedDrive Kundenportale. Schwerpunkt Webentwicklungsprojekte in agilem Vorgehen, Projektinitiierung, Projektmanagement, Anforderungsmanagement, Testmanagement, Rollout, sowie Konzeption und Spezifikation.  
-> www.bmw-connecteddrive.de
+> <a href="www.bmw-connecteddrive.de" target="_blank">www.bmw-connecteddrive.de</a>  
 
 ### User Experience Consultant
 Ray Sono AG  

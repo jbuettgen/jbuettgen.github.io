@@ -1,6 +1,7 @@
-<img src="https://avatars.githubusercontent.com/u/20593806" width="100" height="100" align="right" float="left">
+
 
 ## Hi, I'm Jennifer
+<img src="https://avatars.githubusercontent.com/u/20593806" width="100" height="100" align="right" float="left">
 Techie since my first lines of code in the early 2000s. Agile enthusiast since my first role as product owner in 2013. Now hands-on enabler and leader for agile tech projects with a quality-focused and team-oriented mindset.
  
 Find me on [LinkedIn](https://www.linkedin.com/in/jennifer-kleimaier/ "LinkedIn")
@@ -82,7 +83,7 @@ Ludwig-Maximilians University, Munich
 ### Professional Scrum Product Owner I
 Scrum.org  
 Ausgestellt: Juni 2015  
-<img src="https://images.credly.com/size/680x680/images/591762c5-fae7-49c6-b326-e1756979928d/image.png" width="100" height="100">
+<img src="https://images.credly.com/size/680x680/images/591762c5-fae7-49c6-b326-e1756979928d/image.png" width="80" height="80">
 <a href="https://www.credly.com/badges/2ee9fd6b-93d8-442f-8cf1-ccf1188e8212" target="_blank">Verify</a>  
   
 ### Professional Scrum Master I
